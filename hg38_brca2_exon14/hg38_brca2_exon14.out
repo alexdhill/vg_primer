@@ -1,0 +1,153 @@
+WARNING: Assumes properly formatted primer3, BOULDER output
+hg38_brca2_exon14
+TATTTATATGTGTACTAGTCAATAAACTTATATATTTTCTCCCCATTGCAGCACAACTAAGGAACGTCAAGAGATACAGAATCCAAATTTTACCGCACCTGGTCAAGAATTTCTGTCTAAATCTCATTTGTATGAACATCTGACTTTGGAAAAATCTTCAAGCAATTTAGCAGTTTCAGGACATCCATTTTATCAAGTTTCTGCTACAAGAAATGAAAAAATGAGACACTTGATTACTACAGGCAGACCAACCAAAGTCTTTGTTCCACCTTTTAAAACTAAATCACATTTTCACAGAGTTGAACAGTGTGTTAGGAATATTAACTTGGAGGAAAACAGACAAAAGCAAAACATTGATGGACATGGCTCTGATGATAGTAAAAATAAGATTAATGACAATGAGATTCATCAGTTTAACAAAAACAACTCCAATCAAGCAGTAGCTGTAACTTTCACAAAGTGTGAAGAAGAACCTTTAGGTATTGTATGACAATTTGTGTGATGAATTTTTGCCTTTCAGTTAGATATTTCCGTTGTTAAA
+=
+Left primer 93,22: CGCACCTGGTCAAGAATTTCTG
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 170
+Est min distance: 170
+=
+Left primer 93,22: CGCACCTGGTCAAGAATTTCTG
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 279
+Est min distance: 279
+=
+Left primer 90,22: TACCGCACCTGGTCAAGAATTT
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 173
+Est min distance: 173
+=
+Left primer 89,22: TTACCGCACCTGGTCAAGAATT
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 174
+Est min distance: 174
+=
+Left primer 88,22: TTTACCGCACCTGGTCAAGAAT
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 175
+Est min distance: 175
+=
+Left primer 86,22: ATTTTACCGCACCTGGTCAAGA
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 177
+Est min distance: 177
+=
+Left primer 44,22: ATTGCAGCACAACTAAGGAACG
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 219
+Est min distance: 219
+=
+Left primer 93,22: CGCACCTGGTCAAGAATTTCTG
+Right primer 261,22: AAAGACTTTGGTTGGTCTGCCT
+Snarled primers: none
+Est max distance: 169
+Est min distance: 169
+=
+Left primer 241,22: GGCAGACCAACCAAAGTCTTTG
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 131
+Est min distance: 131
+=
+Left primer 90,22: TACCGCACCTGGTCAAGAATTT
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 282
+Est min distance: 282
+=
+Left primer 89,22: TTACCGCACCTGGTCAAGAATT
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 283
+Est min distance: 283
+=
+Left primer 88,22: TTTACCGCACCTGGTCAAGAAT
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 284
+Est min distance: 284
+=
+Left primer 86,22: ATTTTACCGCACCTGGTCAAGA
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 286
+Est min distance: 286
+=
+Left primer 44,22: ATTGCAGCACAACTAAGGAACG
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 328
+Est min distance: 328
+=
+Left primer 83,22: CAAATTTTACCGCACCTGGTCA
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 180
+Est min distance: 180
+=
+Left primer 93,22: CGCACCTGGTCAAGAATTTCTG
+Right primer 263,22: ACAAAGACTTTGGTTGGTCTGC
+Snarled primers: none
+Est max distance: 171
+Est min distance: 171
+=
+Left primer 83,22: CAAATTTTACCGCACCTGGTCA
+Right primer 371,22: TCAGAGCCATGTCCATCAATGT
+Snarled primers: none
+Est max distance: 289
+Est min distance: 289
+=
+Left primer 82,22: CCAAATTTTACCGCACCTGGTC
+Right primer 262,22: CAAAGACTTTGGTTGGTCTGCC
+Snarled primers: none
+Est max distance: 181
+Est min distance: 181
+=
+Left primer 93,22: CGCACCTGGTCAAGAATTTCTG
+Right primer 258,22: GACTTTGGTTGGTCTGCCTGTA
+Snarled primers: none
+Est max distance: 166
+Est min distance: 166
+=
+Left primer 93,22: CGCACCTGGTCAAGAATTTCTG
+Right primer 256,22: CTTTGGTTGGTCTGCCTGTAGT
+Snarled primers: none
+Est max distance: 164
+Est min distance: 164
+=
+Left primer 93,22: CGCACCTGGTCAAGAATTTCTG
+Right primer 257,22: ACTTTGGTTGGTCTGCCTGTAG
+Snarled primers: none
+Est max distance: 165
+Est min distance: 165
+=
+Left primer 90,22: TACCGCACCTGGTCAAGAATTT
+Right primer 261,22: AAAGACTTTGGTTGGTCTGCCT
+Snarled primers: none
+Est max distance: 172
+Est min distance: 172
+=
+Left primer 89,22: TTACCGCACCTGGTCAAGAATT
+Right primer 261,22: AAAGACTTTGGTTGGTCTGCCT
+Snarled primers: none
+Est max distance: 173
+Est min distance: 173
+=
+Left primer 88,22: TTTACCGCACCTGGTCAAGAAT
+Right primer 261,22: AAAGACTTTGGTTGGTCTGCCT
+Snarled primers: none
+Est max distance: 174
+Est min distance: 174
+=
+Left primer 86,22: ATTTTACCGCACCTGGTCAAGA
+Right primer 261,22: AAAGACTTTGGTTGGTCTGCCT
+Snarled primers: none
+Est max distance: 176
+Est min distance: 176
